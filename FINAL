@@ -22,7 +22,7 @@
    "outputs": [],
    "source": [
     "import zipfile\n",
-    "with zipfile.ZipFile('', 'r') as zip_ref:\n",
+    "with zipfile.ZipFile('National_Obesity_By_State.zip', 'r') as zip_ref:\n",
     "    zip_ref.extractall()"
    ]
   },
@@ -41,10 +41,10 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "a = np.array([1, 3, 2])\n",
-    "len(a)\n",
-    "a.sort()\n",
-    "a"
+    "import pandas as pd\n",
+    "import maatplotlib.pyplot as plt\n",
+    "national_wz = pd.read_csv('National_Obesity_By_State.csv')",
+    
    ]
   },
   {
