@@ -21,8 +21,9 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "import numpy as np\n",
-    "np.array([1, 2, 3])\n"
+    "import zipfile\n",
+    "with zipfile.ZipFile('', 'r') as zip_ref:\n",
+    "    zip_ref.extractall()"
    ]
   },
   {
