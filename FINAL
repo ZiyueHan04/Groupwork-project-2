@@ -5,13 +5,16 @@
    "id": "91421d73-c42b-4ea7-adcc-2688ede7cd29",
    "metadata": {},
    "source": [
-    "# Deciphering Urban Dynamics: Analyzing Crime Data in Los Angeles from 2020 to Present\r",
-    "- **\tNumP**y: A library that makes a variety of mathematical and statistical operations easier; it is also the basis for many features of the pandas library. NumPy is implemented in the C language and hence provides much faster array processing performance as required for large sets of data in a distributed- **•\tMatplotl**ib: A visualization library that makes it quick and easy to generate graphs and charts from our data- **\n",
-    "•\tSeab**orn – modern visualization package built on Matplotl- **P\n",
-    "•\tpa**ndas: A Python library created specifically to facilitate working with data. This is the bread and butter of a lot of Python data-science wo- **.\r\n",
-    "•\tscikit-**learn: Probably the most popular library for machine learning in Py\n",
+    "## Introduction and Background\n",
     "\n",
-    "- **Working with Numpy** thon.\r\n"
+    "As societies navigate the complexities of healthcare, lifestyle, and economic prosperity, obesity has emerged as a critical public health concern. The percentage of the population classified as obese is a key metric, reflecting the challenges and trends in health and well-being across different states in the United States."
+    "\n",
+     "In this project, we delve into data on obesity percentages by state, gathered from a comprehensive survey conducted by the Centers for Disease Control and Prevention (CDC) in 2015. The dataset encompasses information on the obesity percentages, as well as additional attributes such as state names, FID (Feature ID), SHAPE_Length, and SHAPE_Area."
+    "\n",
+    "The primary objective of this analysis is to understand the distribution of obesity percentages across states, identify states with higher or lower obesity rates, and explore potential correlations with geographical or demographic factors. By leveraging this dataset, we aim to shed light on the complex interplay between lifestyle, healthcare, and environmental factors that contribute to obesity."
+    "\n",
+    "Through a series of exploratory data analyses, visualizations, and statistical examinations, we will construct a narrative that highlights the disparities and similarities in obesity percentages across states. By focusing on the year 2015, we can analyze a snapshot of the obesity landscape and identify potential trends or patterns that may inform public health strategies and interventions."
+    "\n",
    ]
   },
   {
