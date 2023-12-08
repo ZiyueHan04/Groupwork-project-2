@@ -5,7 +5,7 @@
    "id": "91421d73-c42b-4ea7-adcc-2688ede7cd29",
    "metadata": {},
    "source": [
-    "# Python Libraries for Data Analytics & Data Science\r",
+    "# Deciphering Urban Dynamics: Analyzing Crime Data in Los Angeles from 2020 to Present\r",
     "- **\tNumP**y: A library that makes a variety of mathematical and statistical operations easier; it is also the basis for many features of the pandas library. NumPy is implemented in the C language and hence provides much faster array processing performance as required for large sets of data in a distributed- **•\tMatplotl**ib: A visualization library that makes it quick and easy to generate graphs and charts from our data- **\n",
     "•\tSeab**orn – modern visualization package built on Matplotl- **P\n",
     "•\tpa**ndas: A Python library created specifically to facilitate working with data. This is the bread and butter of a lot of Python data-science wo- **.\r\n",
